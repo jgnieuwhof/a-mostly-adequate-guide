@@ -13,6 +13,7 @@
     "babel-preset-react": "^6.24.1",
     "chai": "^4.1.1",
     "lodash": "^4.17.4",
+    "node-fetch": "^1.7.2",
     "ramda": "^0.24.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",

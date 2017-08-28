@@ -2,6 +2,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-const body = <div>Hello World!</div>
+import App from './components/App'
 
-ReactDOM.render(body, document.getElementById(`root`))
+ReactDOM.render(<App />, document.getElementById(`root`))
